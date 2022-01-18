@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div style="display: inline_block"><br>
-  <img align="center" alt="Pedro-C" height="30" width="40" src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"</>
-                                                                                                                                           </div>
+  src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"</>
+                                                                                                                                           
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
