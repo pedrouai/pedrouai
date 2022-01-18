@@ -1,9 +1,7 @@
 ### Hi there 👋
-
-<!--
-**pedrouai/pedrouai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
+  <img align="center" alt="Pedro-C" height="30" width="40" src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />">
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
